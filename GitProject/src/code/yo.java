@@ -8,7 +8,10 @@ public class yo {
 	}
 	
 	
-	
+	public void doesNothing(){
+		//this is test.
+		return;
+	}
 	
 	
 	
